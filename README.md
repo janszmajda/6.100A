@@ -1,4 +1,4 @@
-# MIT 6.100A — Introduction to Computer Science and Programming in Python
+# MIT 6.100A, Introduction to Computer Science and Programming in Python
 
 This repository contains my completed problem sets for MIT 6.100A,
 a foundational course covering computational thinking and Python programming.
